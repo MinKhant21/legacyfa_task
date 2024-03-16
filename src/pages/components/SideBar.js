@@ -10,7 +10,7 @@ export default function SideBar() {
     <div className=" w-[250px]  bg-[#F5F5F5] h-full shadow-md rounded-3xl px-2">
       <div className=" flex gap-4 items-center py-10 mx-4 mb-8">
         <div className=" p-3 rounded-lg bg-[#29DE98]">
-          <FaArrowUpRightDots />
+          <FaArrowUpRightDots style={{color:"white"}} />
         </div>
         <p>GrowthView</p>
       </div>

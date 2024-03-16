@@ -11,8 +11,8 @@ export default function Header() {
     <>
      <div className=" w-full bg-white py-5 rounded-3xl px-5 flex justify-around gap-5 items-center">
         <div>
-          <p>Hello Gokul</p>
-          <p className=" text-[10px]">Welcome Back!</p>
+          <p>Hello Kaung Min Khant</p>
+          <p className=" text-[12px]">Welcome Back!</p>
         </div>
         <div className="relative ">
           <div className="absolute inset-y-0 left-0 flex items-center pl-3">

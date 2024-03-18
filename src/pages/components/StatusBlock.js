@@ -5,7 +5,7 @@ import ProfitStatus from "../../assets/Screenshot 2024-03-16 at 5.04.18 PM.png";
 import CharStatus from "../../assets/Screenshot 2024-03-16 at 5.06.01 PM.png";
 export default function StatusBlock() {
   return (
-    <div className="  mt-3 flex gap-5 justify-between  h-[250px]  items-center">
+    <div className="  mt-5 flex gap-5 justify-between   h-[250px]  items-center">
       <div className=" p-3 w-[400px]  bg-[#F5F5F5] gap-4  py-4 shadow-lg h-[250px] rounded-2xl">
         <p className=" text-left pl-4">Weekly Sales</p>
         <img
